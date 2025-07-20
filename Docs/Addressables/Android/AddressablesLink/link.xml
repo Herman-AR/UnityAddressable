@@ -32,14 +32,14 @@
     <type fullname="WordClickHandler" preserve="all" />
     <type fullname="WordFilter" preserve="all" />
     <type fullname="WordSlot" preserve="all" />
-    <type fullname=".ImageTracker/PageMapping" preserve="nothing" serialized="true" />
+    <type fullname=".ISPYGameManager/ClueAudio" preserve="nothing" serialized="true" />
     <type fullname=".PageSpriteData" preserve="nothing" serialized="true" />
+    <type fullname=".SpriteDataList" preserve="nothing" serialized="true" />
     <type fullname=".User" preserve="nothing" serialized="true" />
     <type fullname=".UserData" preserve="nothing" serialized="true" />
     <type fullname=".WordFilter/Difficulty" preserve="nothing" serialized="true" />
     <type fullname=".WordFilter/Page" preserve="nothing" serialized="true" />
-    <type fullname=".ISPYGameManager/ClueAudio" preserve="nothing" serialized="true" />
-    <type fullname=".SpriteDataList" preserve="nothing" serialized="true" />
+    <type fullname=".ImageTracker/PageMapping" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -51,10 +51,10 @@
     <type fullname="UnityEngine.InputSystem.XR.TrackedPoseDriver" preserve="all" />
     <type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.InputSystem.InputActionProperty" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputActionProperty" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
@@ -81,6 +81,7 @@
     <type fullname="UnityEngine.Rendering.Universal.UniversalRendererData" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset" preserve="all" />
     <type fullname="UnityEngine.Rendering.Universal.Vignette" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.DownscaleParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.HDRACESPresetParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.NeutralRangeReductionModeParameter" preserve="nothing" serialized="true" />
@@ -89,7 +90,6 @@
     <type fullname="UnityEngine.Rendering.Universal.ScriptableRendererData/DebugShaderResources" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.ScriptableRendererData/ProbeVolumeResources" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.StencilStateData" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.TonemappingModeParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset/TextureResources" preserve="nothing" serialized="true" />
   </assembly>
@@ -122,7 +122,6 @@
   <assembly fullname="Unity.XR.ARSubsystems, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary" preserve="all" />
     <type fullname="UnityEngine.XR.ARSubsystems.SerializableDictionary`2" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.XR.ARSubsystems.SerializableDictionary`2/KeyValuePair" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.XR.ARSubsystems.SerializableGuid" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.XR.ARSubsystems.XRReferenceImage" preserve="nothing" serialized="true" />
   </assembly>
@@ -179,14 +178,14 @@
     <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
-    <type fullname="UnityEngine.Bounds" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Bounds" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent`1" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Vector2" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
