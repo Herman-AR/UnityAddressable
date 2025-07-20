@@ -1,4 +1,4 @@
-*.bundle binary
-*.bin binary
-*.hash text
-*.json text
+git lfs untrack "*.bundle"
+git lfs untrack "*.bin"
+git lfs untrack "*.hash"
+git lfs untrack "*.json"
