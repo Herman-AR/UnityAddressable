@@ -1,4 +1,0 @@
-git lfs untrack "*.bundle"
-git lfs untrack "*.bin"
-git lfs untrack "*.hash"
-git lfs untrack "*.json"
