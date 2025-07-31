@@ -4,6 +4,7 @@
     <type fullname="AnimationManager" preserve="all" />
     <type fullname="ARPageManager" preserve="all" />
     <type fullname="AutoGameLauncher" preserve="all" />
+    <type fullname="BackToReactApp" preserve="all" />
     <type fullname="Book" preserve="all" />
     <type fullname="ButtonHoverEffect" preserve="all" />
     <type fullname="ClickableSprite" preserve="all" />
