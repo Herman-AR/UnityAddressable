@@ -123,7 +123,6 @@
   <assembly fullname="Unity.XR.ARSubsystems, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary" preserve="all" />
     <type fullname="UnityEngine.XR.ARSubsystems.SerializableDictionary`2" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.XR.ARSubsystems.SerializableDictionary`2/KeyValuePair" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.XR.ARSubsystems.SerializableGuid" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.XR.ARSubsystems.XRReferenceImage" preserve="nothing" serialized="true" />
   </assembly>
