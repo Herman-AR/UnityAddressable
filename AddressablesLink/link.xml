@@ -29,6 +29,8 @@
     <type fullname="SpriteLoader" preserve="all" />
     <type fullname="StationaryIntroManager" preserve="all" />
     <type fullname="StoryCompletionGameplay" preserve="all" />
+    <type fullname="UserAPIManager" preserve="all" />
+    <type fullname="UserDataManager" preserve="all" />
     <type fullname="UserDetailsArtInventory" preserve="all" />
     <type fullname="WordClickHandler" preserve="all" />
     <type fullname="WordFilter" preserve="all" />
@@ -40,6 +42,8 @@
     <type fullname=".WordFilter/Page" preserve="nothing" serialized="true" />
     <type fullname=".ISPYGameManager/ClueAudio" preserve="nothing" serialized="true" />
     <type fullname=".SpriteDataList" preserve="nothing" serialized="true" />
+    <type fullname=".User" preserve="nothing" serialized="true" />
+    <type fullname=".UserData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
